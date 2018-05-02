@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-01T13:39:44.641Z</updated>
+  <updated>2018-05-02T02:51:12.664Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>程序员实用网站</title>
+    <link href="http://yoursite.com/2018/05/02/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <id>http://yoursite.com/2018/05/02/程序员实用网站/</id>
+    <published>2018-05-02T02:48:53.000Z</published>
+    <updated>2018-05-02T02:51:12.664Z</updated>
+    
+    <content type="html"><![CDATA[<p>推荐几个实用网址，当然也是必备技能：亲测有效哟！</p><ol><li>window把自己的项目上传到github  <a href="https://blog.csdn.net/qq_31852701/article/details/52944312" target="_blank" rel="noopener">https://blog.csdn.net/qq_31852701/article/details/52944312</a></li><li>使用Hexo+Github一步步搭建属于自己的博客（基础） <a href="https://www.cnblogs.com/fengxiongZz/p/7707219.html" target="_blank" rel="noopener">https://www.cnblogs.com/fengxiongZz/p/7707219.html</a></li><li>使用Hexo+Github一步步搭建属于自己的博客（进阶） <a href="http://www.cnblogs.com/fengxiongZz/p/7707568.html" target="_blank" rel="noopener">http://www.cnblogs.com/fengxiongZz/p/7707568.html</a></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;推荐几个实用网址，当然也是必备技能：亲测有效哟！&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;window把自己的项目上传到github  &lt;a href=&quot;https://blog.csdn.net/qq_31852701/article/details/52944312&quot; target=
+      
+    
+    </summary>
+    
+    
+      <category term="推荐实用网站" scheme="http://yoursite.com/tags/%E6%8E%A8%E8%8D%90%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    
+  </entry>
   
   <entry>
     <title>献给大家和自己共勉的话</title>
